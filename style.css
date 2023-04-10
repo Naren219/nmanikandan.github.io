@@ -1,0 +1,144 @@
+/*-------General Starts-------*/
+body {
+	margin:0px;
+	/* CSS Document */
+	padding:0px;
+	font:normal 11px/14px Arial, Helvetica, sans-serif;
+	background-color:#000;
+	color:#818475;
+}
+td, ul, li, p, h2, h5, form, input, select, label{
+	padding:0;
+	margin:0;
+}
+img{
+    padding: 0;
+    margin-top: 14px;
+    margin-right: 14px;
+    margin-left: 14px;
+    margin-bottom: 14px;
+    border: none;
+    line-height: 0px;
+    font-size: 0px;
+}
+h2{
+	font:bold 20px/24px "Tahoma", Arial, Helvetica, sans-serif;
+	color:#fff;
+	background-color:inherit;
+}
+.table_center {
+    align-content: center;
+}
+h5{
+    line-height: 14px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #816A1A;
+    background-color: inherit;
+}
+p{
+	font:normal 11px/14px Arial, Helvetica, sans-serif;
+	color:#818475;
+	background-color:inherit;
+}
+
+.main_bg{
+	background:url(file:///Macintosh%20HD/Users/narenmani/Documents/cti_files/images/main_bg.jpg) no-repeat;
+	padding-top:74px;
+}
+.nav_bg{
+	background:url(file:///Macintosh%20HD/Users/narenmani/Documents/cti_files/images/nav_bg.gif) repeat-x 0 0;
+}
+.nav_bg ul{
+	padding:4px 0 20px 44px;
+	font:normal 10px/12px Arial, Helvetica, sans-serif;
+	color:#D3CF72;
+	text-transform:uppercase;
+	float:left;
+	width:auto;
+}
+.nav_bg ul li{
+	float:left;
+	margin:0 1px;	
+	background-color:inherit;
+}
+.nav_bg ul li a{
+	text-decoration:none;
+	color:#FFFAAF;
+	background-color:inherit;
+	padding:12px 18px;
+	display:block;
+}
+
+.header_bg{
+	background-color:#FAEDD9;
+	color:#615F22;
+	width:784px;
+	padding:16px 0 22px;
+	list-style-type:none;
+}
+.header_bg h2{
+	color:#000;
+	background-color:inherit;
+	padding:5px 0 7px;
+}
+.header_bg h2 span{
+	color:#2A5C0B;
+	font:normal 16px/23px "Tahoma", Arial, Helvetica, sans-serif;
+	background-color:inherit;
+	display:block;
+}
+.header_bg p{
+	color:#000;
+	background-color:inherit;
+	width:435px;
+}
+.header_bg ul{
+	padding-top:17px;
+	padding-bottom: 17px;
+	list-style-type:none;
+}
+
+.form_list li:last-child {margin-bottom: 1em}
+
+
+.header_bg ul li a{
+	font:normal 10px/14px Arial, Helvetica, sans-serif;
+	color:#EA2A15;
+	background-color:inherit;
+	text-decoration:none;
+}
+.footer{
+    background: url(file:///Macintosh%20HD/Users/narenmani/Documents/cti_files/images/footer_bg.gif) repeat-x 0 0;
+    color: #818475;
+    background-color: inherit;
+}
+.link_contact {
+    color: #FFFFFF;
+}
+.prime {
+    font-size: 14px;
+    font-style: normal;
+}
+.table_contact {
+    padding: 0;
+    width: auto;
+	border-spacing: 0;
+}
+.table_big {
+    padding: inherit;
+    width: 944;
+}
+.table_med {
+    padding: 0;
+    width: auto;
+}
+.table_small {
+    padding: inherit;
+    width: 182;
+}
+.main-container {
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
